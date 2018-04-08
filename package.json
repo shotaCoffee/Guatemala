@@ -1,13 +1,14 @@
 {
   "name": "guatemala",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Easier to styling, always prepare necessary mixin and variables",
   "main": "guatemala.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "scss"
+    "SCSS",
+    "CSS"
   ],
   "author": "shotaCoffee <dripcoffee1018@gmail.com> (https://shota.design/)",
   "license": "MIT"
