@@ -4,12 +4,17 @@
   "description": "Easier to styling, always prepare necessary mixin and variables",
   "main": "guatemala.scss",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "develop": "npx parcel index.html"
   },
   "keywords": [
     "SCSS",
     "CSS"
   ],
   "author": "shotaCoffee <dripcoffee1018@gmail.com> (https://shota.design/)",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.10.3",
+    "sass": "^1.14.3"
+  }
 }

@@ -1,3 +1,6 @@
-.DS_Store
+.cache
 .idea
+.DS_Store
 .bash_profile
+node_modules
+dist/
