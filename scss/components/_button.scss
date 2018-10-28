@@ -1,0 +1,23 @@
+.gu-button {
+    display: inline-block;
+    text-align: center;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    border: 1px solid $gu-color;
+    border-radius: 4px;
+    background: #fff;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: $gu-color;
+    line-height: 1.5;
+
+    &--disabled {
+        opacity: 0.4;
+        cursor: not-allowed;
+    }
+
+    &:hover:not(.gu-button--disabled) {
+        color: #fff;
+        background: $gu-color;
+    }
+}
