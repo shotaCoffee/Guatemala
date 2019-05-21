@@ -15,6 +15,6 @@
   "license": "MIT",
   "devDependencies": {
     "parcel": "^1.10.3",
-    "sass": "^1.14.3"
+    "sass": "^1.20.1"
   }
 }
