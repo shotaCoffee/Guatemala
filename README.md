@@ -18,4 +18,4 @@
   Please import `Guatemala/scss/mixins/_mediaquery.scss`
 
 License
-MIT © [ShotaCoffee](https://shota.design/)
+MIT © [ShotaCoffee](https://shota.coffee/)
