@@ -1,16 +1,21 @@
 ![Guatemala](./logo.png)
 ---
 
-# Getting Started
+# When is it useful to use it?
 
-1. install library
+- Landing page
+- Simple style web site
 
-2. import style file
+# How can use it?
 
-```
-import from 'guatemala.scss'
-```
+- Load directly into HTML
+- Bundle with webpack, etc.
 
+# FAQ
+
+- use only media query.
+
+  Please import `Guatemala/scss/mixins/_mediaquery.scss`
 
 License
 MIT © [ShotaCoffee](https://shota.design/)
