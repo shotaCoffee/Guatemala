@@ -14,7 +14,6 @@
   "author": "shotaCoffee <dripcoffee1018@gmail.com> (https://shota.coffee/)",
   "license": "MIT",
   "devDependencies": {
-    "parcel": "^1.12.4",
     "sass": "^1.32.2"
   }
 }
