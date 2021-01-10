@@ -1,6 +1,6 @@
 {
   "name": "guatemala",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Easier to styling, always prepare necessary mixin and variables",
   "main": "guatemala.scss",
   "repository": "",
